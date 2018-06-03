@@ -8,7 +8,7 @@ let remainer   = parseInt(config.Accounts) % parseInt(profiles.length)
 let totalTasks = [];
 
 log('---------------------------')
-log("-----Made by @Cody_Ncc-----",)
+log("-----Made by @Cody_Ncc-----")
 log('---------------------------')
 log('')
 for (let i = 0; i < profiles.length; i++) {
