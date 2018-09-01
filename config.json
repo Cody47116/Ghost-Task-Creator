@@ -1,6 +1,7 @@
 {
 "Accounts":"100",
 "Sku":"AO2571-001",
+"Device":"iOS"
 "RandomApt":true,
 "RandomName":true,
 "RandomPhone":true,
