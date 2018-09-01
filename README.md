@@ -12,6 +12,9 @@ This script will create your tasks based on the amount of profiles and accounts 
 - Run the script by typing "node create.js".
 - Import & Enjoy!
 
+### Config Settings
+- For "Device" use iOS or Chrome
+
 
 
 
